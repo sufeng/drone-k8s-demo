@@ -1,5 +1,5 @@
 image:
-  repository: cnych/drone-k8s-demo
+  repository: sufeng/drone-k8s-demo
   tag: latest
   pullPolicy: Always
 
